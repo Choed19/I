@@ -1,10 +1,10 @@
 import math
 # ค่า g คือค่าความเร่งเนื่องจากความโน้มถ่วงของโลก
 g = float(input("กรุณาป้อนค่า g: "))
-width = float(input("กรุณาป้อนค่า width: "))
-height = float(input("กรุณาป้อนค่า height: "))
-l = float(input("กรุณาป้อนค่า l: "))
-angle_in_degrees = float(input("กรุณาป้อนค่า angle_in_degrees: "))
+width = float(input("กรุณาป้อนค่าความกว้าง : "))
+height = float(input("กรุณาป้อนค่าความสูง: "))
+l = float(input("กรุณาป้อนค่าความลึก : "))
+angle_in_degrees = float(input("กรุณาป้อนค่าองค์ศา : "))
 
 #Step 1
 # แปลงมุมจากองศาเป็นเรเดียน
